@@ -7,4 +7,4 @@ Phần 3: Bài tập về vòng lặp
 Phần 4: Bài tập về hàm  
 Phần 5: Bài tập về mảng  
   
-Các phần sau sẽ áp
+Các phần sau sẽ áp dụng phần trước để làm.  
