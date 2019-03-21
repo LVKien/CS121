@@ -45,7 +45,7 @@
 
 **Input**: 5  
 1 2 3 4 5  
-**Output**: 8  
+**Output**: 6  
 
 **Input**: 3  
 1 2 3  
