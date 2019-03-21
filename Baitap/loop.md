@@ -45,11 +45,11 @@
 
 **Input**: 5  
 1 2 3 4 5  
-**Output**: 15  
+**Output**: 8  
 
 **Input**: 3  
 1 2 3  
-**Output**: 6  
+**Output**: 2  
 
 ### Bài 8: Nhập vào 1 số nguyên N. Tính tổng các ước của số nguyên N đó.
 
